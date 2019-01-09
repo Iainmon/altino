@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Altino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SensorData	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Go	KEYWORD2
+Steering	KEYWORD2
+Steering2	KEYWORD2
+Sound	KEYWORD2
+Display	KEYWORD2
+DisplayLine	KEYWORD2
+Led	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Sensor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
