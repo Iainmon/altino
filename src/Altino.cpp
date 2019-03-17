@@ -122,11 +122,11 @@ void Steering2(int value1, int value2)
 	if(value1>127)
 		value1=127;
 	if(value2>127)
-		value2-127;
+		value2=127;
 	if(value1<-127)
 		value1=-127;
 	if(value2<-127)
-		value1=-127;
+		value2=-127;
 	if(value1<0)
 		value1=128-value1;
 	if(value2<0)
